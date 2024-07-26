@@ -1,4 +1,0 @@
-sample test to push from local repo to remote rep
-Hi 
-
-This is test to pullo
